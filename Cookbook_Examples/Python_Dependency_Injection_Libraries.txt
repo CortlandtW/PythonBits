@@ -1,0 +1,5 @@
+Pinject was designed from the ground up for python.
+
+
+injector - Python dependency injection framework, inspired by Guice
+https://github.com/alecthomas/injector
